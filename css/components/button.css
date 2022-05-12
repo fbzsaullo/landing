@@ -1,0 +1,14 @@
+.btn-primary {
+  color: rgba(0, 0, 0, 0.493);
+  background-color: #ffffff;
+  border: 1px solid #ffffff;
+  padding: 10px 15px;
+  border-radius: 50px;
+  opacity: 0.8;
+  font-size: 20px;
+}
+
+.btn-primary:hover {
+  opacity: 1;
+  text-decoration: none;
+}

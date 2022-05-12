@@ -1,0 +1,38 @@
+.footer {
+  padding: 20px;
+  background-color: #2c2b2b;
+}
+
+.list-inline {
+  list-style: none;
+  font-size: 40px;
+  padding-left: 0px;
+  opacity: 1;
+  text-align: center;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+  transition: transform .2s;
+}
+
+.list-inline > li:hover {
+  transform: scale(1.1);
+}
+
+.color-white {
+  color: #fff
+}
+
+.github:hover {
+  color: #000000;
+}
+
+.linkedin:hover {
+  color: #0073B0;
+}
+
+.instagram:hover {
+  color: #C53C85;
+}

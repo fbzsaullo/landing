@@ -1,0 +1,56 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Poppins:wght@700');
+
+/* Fontawesome */
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css');
+
+@import url('https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css');
+
+
+
+@import url('components/banner.css');
+@import url('components/button.css');
+@import url('components/card.css');
+@import url('components/footer.css');
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #505050;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #356306;
+  border-radius: 30px;
+}
+
+/*  */
+
+/* Utilities */
+body {
+  margin: 0;
+  font-family: Open Sans;
+}
+
+h1, h2, h3, h4 {
+  font-family: Poppins;
+  color: #356306;
+}
+
+a {
+  text-decoration: none;
+}
+/* Custom design below! */
+
+.container {
+  width: 900px;
+  margin: auto;
+  padding: 60px;
+}
+
+.text-align {
+  text-align: center;
+}
