@@ -22,17 +22,21 @@
 }
 
 .color-white {
-  color: #fff
+  color: #fff;
+  transition: .85s;
 }
 
 .github:hover {
   color: #000000;
+  transition: .85s;
 }
 
 .linkedin:hover {
   color: #0073B0;
+  transition: .85s;
 }
 
 .instagram:hover {
   color: #C53C85;
+  transition: .85s;
 }
